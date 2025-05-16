@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Unreal Project\\GCCSecondProject\\Source\\GCCSecondProject\\GCCSecondProject.Build.cs",
+		"C:\\Unreal Project\\GCCSecondProject\\Source\\GCCSecondProject.Target.cs",
+		"C:\\Unreal Project\\GCCSecondProject\\Source\\GCCSecondProjectEditor.Target.cs"
+	],
+	"EngineVersion": "5.5.4"
+}

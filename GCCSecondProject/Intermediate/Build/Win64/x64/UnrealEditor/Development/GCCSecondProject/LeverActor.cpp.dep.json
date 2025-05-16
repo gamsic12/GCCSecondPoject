@@ -1,0 +1,17 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\unreal project\\gccsecondproject\\source\\gccsecondproject\\leveractor.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\unreal project\\gccsecondproject\\intermediate\\build\\win64\\x64\\gccsecondprojecteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\unreal project\\gccsecondproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\gccsecondproject\\definitions.gccsecondproject.h",
+            "c:\\unreal project\\gccsecondproject\\source\\gccsecondproject\\leveractor.h",
+            "c:\\unreal project\\gccsecondproject\\source\\gccsecondproject\\interactable.h",
+            "c:\\unreal project\\gccsecondproject\\intermediate\\build\\win64\\unrealeditor\\inc\\gccsecondproject\\uht\\interactable.generated.h",
+            "c:\\unreal project\\gccsecondproject\\intermediate\\build\\win64\\unrealeditor\\inc\\gccsecondproject\\uht\\leveractor.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

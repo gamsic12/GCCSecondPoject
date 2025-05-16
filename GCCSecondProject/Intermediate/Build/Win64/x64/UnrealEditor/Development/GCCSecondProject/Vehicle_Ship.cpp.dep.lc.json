@@ -1,0 +1,31 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\unreal project\\gccsecondproject\\source\\gccsecondproject\\vehicle_ship.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\unreal project\\gccsecondproject\\intermediate\\build\\win64\\x64\\gccsecondprojecteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\unreal project\\gccsecondproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\gccsecondproject\\definitions.gccsecondproject.h",
+            "c:\\unreal project\\gccsecondproject\\source\\gccsecondproject\\vehicle_ship.h",
+            "c:\\unrealengine\\ue_5.5\\engine\\plugins\\experimental\\water\\source\\runtime\\public\\buoyancycomponent.h",
+            "c:\\unrealengine\\ue_5.5\\engine\\plugins\\experimental\\water\\source\\runtime\\public\\buoyancytypes.h",
+            "c:\\unrealengine\\ue_5.5\\engine\\plugins\\experimental\\water\\source\\runtime\\public\\waterbodytypes.h",
+            "c:\\unrealengine\\ue_5.5\\engine\\plugins\\experimental\\water\\source\\runtime\\public\\gerstnerwaterwaves.h",
+            "c:\\unrealengine\\ue_5.5\\engine\\plugins\\experimental\\water\\source\\runtime\\public\\waterwaves.h",
+            "c:\\unrealengine\\ue_5.5\\engine\\plugins\\experimental\\water\\intermediate\\build\\win64\\unrealeditor\\inc\\water\\uht\\waterwaves.generated.h",
+            "c:\\unrealengine\\ue_5.5\\engine\\plugins\\experimental\\water\\intermediate\\build\\win64\\unrealeditor\\inc\\water\\uht\\gerstnerwaterwaves.generated.h",
+            "c:\\unrealengine\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\components\\splinecomponent.h",
+            "c:\\unrealengine\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\splinecomponent.generated.h",
+            "c:\\unrealengine\\ue_5.5\\engine\\plugins\\experimental\\water\\intermediate\\build\\win64\\unrealeditor\\inc\\water\\uht\\waterbodytypes.generated.h",
+            "c:\\unrealengine\\ue_5.5\\engine\\plugins\\experimental\\water\\intermediate\\build\\win64\\unrealeditor\\inc\\water\\uht\\buoyancytypes.generated.h",
+            "c:\\unrealengine\\ue_5.5\\engine\\plugins\\experimental\\water\\intermediate\\build\\win64\\unrealeditor\\inc\\water\\uht\\buoyancycomponent.generated.h",
+            "c:\\unreal project\\gccsecondproject\\intermediate\\build\\win64\\unrealeditor\\inc\\gccsecondproject\\uht\\vehicle_ship.generated.h",
+            "c:\\unrealengine\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\components\\boxcomponent.h",
+            "c:\\unrealengine\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "c:\\unrealengine\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\shapecomponent.generated.h",
+            "c:\\unrealengine\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\boxcomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

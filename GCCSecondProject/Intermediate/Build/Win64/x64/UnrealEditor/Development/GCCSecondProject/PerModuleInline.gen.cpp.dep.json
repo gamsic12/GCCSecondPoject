@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\unreal project\\gccsecondproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\gccsecondproject\\permoduleinline.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\unreal project\\gccsecondproject\\intermediate\\build\\win64\\x64\\gccsecondprojecteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\unreal project\\gccsecondproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\gccsecondproject\\definitions.gccsecondproject.h",
+            "c:\\unrealengine\\ue_5.5\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
